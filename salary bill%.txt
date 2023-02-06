@@ -1,6 +1,0 @@
-step 1: enter your salary 
-step 2: enter your bill 1 amount 
-step 3: enter your bill 2 amount 
-step 4: enter your bill 3 amount 
-step 5: total amount of salary spent on three bill 
-step 6: percentage of salary amount spent on shopping is bill*salary/100
