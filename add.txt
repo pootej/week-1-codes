@@ -1,0 +1,4 @@
+step 1: enter value a
+step 2: enter value b
+step 3: add a and b
+step 4: display sum of a and b
