@@ -1,6 +1,0 @@
-step 1: enter first subject marks
-step 2: enter second subject marks
-step 3: enter third subject marks
-step 4: print add three subject marks
-step 5: three subject marks and divide by 3
-step 6: print average of three subject is 
