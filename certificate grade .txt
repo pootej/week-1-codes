@@ -1,0 +1,12 @@
+step 1: accept project marks
+step 2: accept external marks
+step 3: accept internal marks
+step 4: check whather the marks is above 50%
+step 5: if marks is above 50% ïn all three formats he is passed 
+step 6: add (70*100/total marks) of project marks
+step 7: add (20*100/total marks) of external marks
+step 8: add (10*100/total marks) of internal marks
+step 9: add (three format marks*100/100)
+step 10: if total is above 90-100 then give A grade on certificate
+step 11: if total is above 70-90 then give B grade on certificate
+step 12: if total is above 50-70 then give C grade on certificate
