@@ -1,0 +1,27 @@
+begin
+number cash,a,b,c
+print("Enter the amount to withdraw")
+input cash    
+if (cash%100==!0)
+{
+print("invalid")
+}
+else if (cash>500)
+{
+a=cash/500
+cash=cash%500
+ }
+if (cash>200)
+{
+b=cash/200
+cash=cash%200
+}
+if (cash>100)
+{
+c=cash/100
+cash=cash%100
+}
+print(a,b,c" 500 notes/n
+             200 notes/n
+             100 notes")
+end

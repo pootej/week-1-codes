@@ -1,0 +1,33 @@
+begin
+number internal,external,project
+print("internal marks")
+input internal
+print("external marks")
+input external
+print("project marks")
+input project if int>=50 && ext>=50 && proj>=50{
+p=(project*70)/100
+E=(external*20)/100 
+I=(internal*10)/100 
+total=P + E + I if total > 90
+{
+print("Grade A")
+}
+if total > 70
+{
+print("Grade B")
+}
+else
+{
+print("Grade C")
+}
+}
+if project < 50 && external < 50 
+{
+print("fail",project,external)
+}
+else
+{
+print("fail ",internal)
+}
+end
