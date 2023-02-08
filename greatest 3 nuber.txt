@@ -6,7 +6,7 @@ if((a>b) && (a>c))
 {
 big number = a;
 }
-else if ((b>a)&&(b>c))
+else if (b>c)
 {
 big number = b
 }
