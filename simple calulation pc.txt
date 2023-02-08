@@ -1,0 +1,13 @@
+begin
+number a,b,add,sub,div,mul
+print("enter the two number"a,b)
+input two number
+add=a+b
+sub=a-b
+div=a/b
+mul=a*b
+print(" result of add/
+        result of sub/
+        result of div/
+        result of mul ",add,sub,mul,div)
+end

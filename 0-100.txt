@@ -1,0 +1,12 @@
+begin
+number a;
+print("enter a number")
+if(a>0 && a<100)
+{
+print ("valid number",a)
+}
+else
+{
+print("invalid",a)
+}
+end

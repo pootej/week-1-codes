@@ -1,0 +1,18 @@
+begin
+var name,class,number,mailid,college,city
+print("enter name",name)
+input=string
+print("enter class")
+input=number
+print("enter mail id")
+input=string
+print("enter college")
+input=string
+print("enter city")
+input=string
+print("name = \n,
+       class = \n,
+       mail id = \n,
+       college = \n,
+       city =  "name,class,number,mail id,college,city)
+end

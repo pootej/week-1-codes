@@ -1,0 +1,16 @@
+begin
+number a,b,c,big number,
+print("enter three numbers")
+input numbers
+if((a>b) && (a>c))
+{
+big number = a;
+}
+else if ((b>a)&&(b>c))
+{
+big number = b
+}
+else
+big number=c
+print(big number,"big number is")
+end

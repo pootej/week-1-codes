@@ -1,0 +1,11 @@
+begin
+number a,
+print ("enter a number")
+input number
+if(a%2==0)
+{
+print ("number is even",a)
+}
+else
+print("number us odd",a)
+end

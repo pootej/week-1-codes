@@ -1,0 +1,12 @@
+begin
+number a,b,greatest;
+print ("enter two number")
+input number
+if (a>b)
+{
+big=a
+}
+else
+big=b
+print(greatest,"greatest nu,ber is")
+end
