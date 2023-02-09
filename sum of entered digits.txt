@@ -1,0 +1,13 @@
+begin
+number n,m,c=0;
+print (enter a number)
+while(n!=0)
+{
+m=n%10;
+c=c+m;
+n=n/10;
+}
+print(c)
+end
+
+

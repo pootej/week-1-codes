@@ -1,0 +1,11 @@
+begin
+number a,b=1;
+print("enter a number")
+while(a%b==0)
+{
+print("factors are",b)
+b++;
+}
+end
+
+

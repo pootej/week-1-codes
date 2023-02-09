@@ -1,0 +1,17 @@
+begin
+number a=1,esum=0,osum=0;
+while (a<=10)
+{
+if(a%2==0)
+esum=esum+a
+a=a+1
+print("esum",esum)
+}
+else
+{
+osum=osum+a
+a=a+1
+print("osum",osum)
+}
+end
+

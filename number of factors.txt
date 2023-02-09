@@ -1,0 +1,12 @@
+begin
+number num,b=1,count=0;
+print("enter a number")
+while(b<=num/2)
+{
+if(num%b==0)
+b++;
+count++;
+}
+print("number of facotirs are",count)
+
+end
