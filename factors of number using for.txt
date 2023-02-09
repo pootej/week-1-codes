@@ -1,0 +1,11 @@
+begin
+num a,b;
+print("enter a number")
+for(a=1;a<=b;a++)
+{
+if(a%b==0)
+}
+print("factors are",b)
+end
+
+

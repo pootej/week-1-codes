@@ -1,0 +1,13 @@
+begin
+num start,stop;
+print("enter start and stop number")
+for(start<=0,start>stop,start++)
+{
+print("numbers",start)
+}
+while(start<stop)
+{
+print("numbers",stop)
+stop=stop-1;
+}
+end

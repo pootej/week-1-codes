@@ -1,0 +1,15 @@
+begin
+num a,sum=0;
+for(a=1;a<=10;a++)
+{
+sum=sum+a;
+}
+if(sum%2==0)
+{
+print("even number",sum)
+}
+else
+{
+print("odd number",sum)
+}
+end

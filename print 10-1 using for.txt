@@ -1,0 +1,7 @@
+begin
+num a;
+for(a=10,a<=1,a--)
+{
+print("a",a)
+}
+end
